@@ -1,5 +1,16 @@
 # Rule-Based Chatbot
 
+---
+
+- NAME : S VIKAASNI
+- COMPANY : CodSoft
+- ID : CS25RY74929
+- DOMAIN : Artificial Intelligence
+- TASK NO : Task 4
+
+
+---
+
 This is a simple rule-based chatbot implemented in Python. It uses predefined rules with `if-else` logic to respond to user input.
 
 ## Features
